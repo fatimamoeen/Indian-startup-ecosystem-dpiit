@@ -1,4 +1,4 @@
-DPIIT Startup Ecosystem — Government Data Analysis & Interactive Dashboard
+**DPIIT Startup Ecosystem — Government Data Analysis & Interactive Dashboard
 A student-led data analysis and visualization project exploring DPIIT-recognised startups, employment indicators, industry distribution and selected government startup-support schemes.
 
 Tools: Python (Pandas) · Microsoft Excel · Power Query · PivotTables · PivotCharts · Slicers
